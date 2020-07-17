@@ -10,3 +10,4 @@ pip install -r requirements
 Useage:-
 Python2 social fish.py
 
+Pishing by termux
